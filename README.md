@@ -31,8 +31,8 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
 
 
- dsniff:
 
+<img width="877" height="548" alt="Screenshot 2025-09-19 204800" src="https://github.com/user-attachments/assets/4ba49dda-927d-4380-ba34-db0c16c4e95a" />
 
 
 
@@ -42,12 +42,23 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 ## OUTPUT:
 
 
+<img width="839" height="568" alt="Screenshot 2025-09-19 204812" src="https://github.com/user-attachments/assets/354a6fd8-e891-444d-bd5a-5a4ff00be0ba" />
+
+
+
+<img width="696" height="287" alt="Screenshot 2025-09-19 204823" src="https://github.com/user-attachments/assets/79387d26-f047-4f62-a666-6b93a11102d9" />
 
 
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 
+
+<img width="794" height="147" alt="Screenshot 2025-09-19 204844" src="https://github.com/user-attachments/assets/aa6e029a-1bac-411d-9aa5-ecd18772bd38" />
+
+
+
+<img width="1101" height="460" alt="Screenshot 2025-09-19 204856" src="https://github.com/user-attachments/assets/c85dcf9d-9cdc-4fc4-8e73-dfe59b4de53c" />
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
